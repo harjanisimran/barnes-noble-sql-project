@@ -15,7 +15,7 @@ This project simulates a backend relational database system for Barnes & Noble, 
 
 ## Files:
 - `Barnes&nobels.sql.pdf` — Final project report with SQL queries, explanation, and logic  
-- `Barnes&nobels.sql.sql` — Executable SQL file for creating and querying the database  
+- `Barnes&nobels.sql` — Executable SQL file for creating and querying the database  
 - `Barnes&nobels.R` — R script for connecting to the database and running queries  
 - `ERD plus.png` — ER Diagram created with ERDPlus  
 - `Relational_schema.png` — Relational Schema diagram created with ERDPlus
